@@ -1,7 +1,8 @@
 # Quiz Application Assignment
 
 ## Overview
-A web-based quiz app assignment made for web dev internship application, fetching quiz data from an API.
+- A web-based quiz app assignment made for web dev internship application, fetching quiz data from an API.
+- Live Website -> https://quiz-app-assignment.pages.dev/
 
 ## Features
 - Start Quiz
