@@ -14,10 +14,11 @@ A web-based quiz app assignment made for web dev internship application, fetchin
 2. Run `npm install`.
 3. Run `npm run dev`.
 
+## Video Walkthrough
+[Watch Video](https://drive.google.com/file/d/1l4_0IFQzNqjjki1taeWDVUXBRh1qlLsb/view?usp=sharing)
+
 ## Screenshots
 ![Quiz Question](screenshots/question.png)
 ![Quiz Answer](screenshots/answer.png)
 ![Quiz Summary](screenshots/summary.png)
 
-## Video Walkthrough
-[Watch Video](quiz-app-video.mp4)
