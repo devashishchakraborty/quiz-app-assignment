@@ -1,0 +1,9 @@
+header{
+  background-color: var(--text-color);
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 0.5em 1em;
+  gap: 1em;
+  font-weight: bold;
+}

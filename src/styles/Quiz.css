@@ -1,0 +1,25 @@
+.quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  flex: 1;
+}
+
+.quiz-summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.quiz-summary h2 {
+  font-size: 1.75rem;
+  color: #28a745;
+}
+
+.quiz-summary p {
+  font-size: 1.25rem;
+  color: #555;
+}
